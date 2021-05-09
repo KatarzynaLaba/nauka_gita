@@ -32,3 +32,16 @@ For more information, see “Writing on GitHub” in the GitHub Help.
 Text Lists Images Headers & Quotes Code Extras
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 It's very easy to make some words bold and other words italic with Markdown. You can even link to Google!
+
+### Syntax guide
+Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text files.
+
+### Images
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+Links
+
+http://github.com - automatic!
+[GitHub](http://github.com)
+Blockquotes
